@@ -1,4 +1,6 @@
-# mattsmithtutoring
+# mattsmithtutoring (DEPRECATED)
+
+**NOTE: THIS REPOSITORY HAS MOVED!** You can find the current repository at <https://github.com/mattsmithtutoring/website>.
 
 ## Set up the development environment
 
